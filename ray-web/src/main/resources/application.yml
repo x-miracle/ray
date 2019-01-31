@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ray
+
+ray:
+  log:
+    level: warn
